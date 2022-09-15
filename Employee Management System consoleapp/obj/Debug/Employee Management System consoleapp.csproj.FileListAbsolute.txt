@@ -1,0 +1,11 @@
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System consoleapp\bin\Debug\Employee Management System consoleapp.exe.config
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System consoleapp\bin\Debug\Employee Management System consoleapp.exe
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System consoleapp\bin\Debug\Employee Management System consoleapp.pdb
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System consoleapp\bin\Debug\Employee Management System.dll
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System consoleapp\bin\Debug\Employee Management System.pdb
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System consoleapp\obj\Debug\Employee Management System consoleapp.csproj.AssemblyReference.cache
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System consoleapp\obj\Debug\Employee Management System consoleapp.csproj.SuggestedBindingRedirects.cache
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System consoleapp\obj\Debug\Employee Management System consoleapp.csproj.CoreCompileInputs.cache
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System consoleapp\obj\Debug\Employee Management System consoleapp.csproj.CopyComplete
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System consoleapp\obj\Debug\Employee Management System consoleapp.exe
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System consoleapp\obj\Debug\Employee Management System consoleapp.pdb

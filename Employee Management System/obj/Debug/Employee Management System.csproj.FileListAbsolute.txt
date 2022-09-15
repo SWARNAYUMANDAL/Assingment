@@ -1,0 +1,6 @@
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System\bin\Debug\Employee Management System.dll
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System\obj\Debug\Employee Management System.dll
+E:\capgemini\New folder\New folder\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
